@@ -225,6 +225,7 @@ p {
   height: auto;
 }
 .versiculo {
+  color:red;
   text-align: justify;
 }
 
